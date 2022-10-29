@@ -2,10 +2,12 @@
     margin-top: 0px;
 }
 
-.event-date{
+.event-day-time-venue{
     text-align: center;
-    color: brown;
-    
+    color: rgb(114, 42, 165);
+    width: 100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
 }
 
 .registration-comm-bar {
