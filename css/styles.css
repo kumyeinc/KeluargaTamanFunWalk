@@ -113,3 +113,9 @@
     float: right;
     margin-left: 30px;
 }
+
+.demofont {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 0px;
+  }
